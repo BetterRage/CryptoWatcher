@@ -1,0 +1,16 @@
+D:\Programme\C#Prog\CryptoService\obj\Debug\netcoreapp3.1\CryptoService.csproj.AssemblyReference.cache
+D:\Programme\C#Prog\CryptoService\obj\Debug\netcoreapp3.1\CryptoService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programme\C#Prog\CryptoService\obj\Debug\netcoreapp3.1\CryptoService.AssemblyInfoInputs.cache
+D:\Programme\C#Prog\CryptoService\obj\Debug\netcoreapp3.1\CryptoService.AssemblyInfo.cs
+D:\Programme\C#Prog\CryptoService\obj\Debug\netcoreapp3.1\CryptoService.csproj.CoreCompileInputs.cache
+D:\Programme\C#Prog\CryptoService\bin\Debug\netcoreapp3.1\CryptoService.exe
+D:\Programme\C#Prog\CryptoService\bin\Debug\netcoreapp3.1\CryptoService.deps.json
+D:\Programme\C#Prog\CryptoService\bin\Debug\netcoreapp3.1\CryptoService.runtimeconfig.json
+D:\Programme\C#Prog\CryptoService\bin\Debug\netcoreapp3.1\CryptoService.runtimeconfig.dev.json
+D:\Programme\C#Prog\CryptoService\bin\Debug\netcoreapp3.1\CryptoService.dll
+D:\Programme\C#Prog\CryptoService\bin\Debug\netcoreapp3.1\CryptoService.pdb
+D:\Programme\C#Prog\CryptoService\obj\Debug\netcoreapp3.1\CryptoService.dll
+D:\Programme\C#Prog\CryptoService\obj\Debug\netcoreapp3.1\CryptoService.pdb
+D:\Programme\C#Prog\CryptoService\obj\Debug\netcoreapp3.1\CryptoService.genruntimeconfig.cache
+D:\Programme\C#Prog\CryptoService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Programme\C#Prog\CryptoService\obj\Debug\netcoreapp3.1\CryptoService.csproj.CopyComplete

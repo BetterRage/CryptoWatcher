@@ -1,0 +1,17 @@
+D:\Programme\C#Prog\CryptoService\bin\Release\net5.0\CryptoService.exe
+D:\Programme\C#Prog\CryptoService\bin\Release\net5.0\CryptoService.deps.json
+D:\Programme\C#Prog\CryptoService\bin\Release\net5.0\CryptoService.runtimeconfig.json
+D:\Programme\C#Prog\CryptoService\bin\Release\net5.0\CryptoService.runtimeconfig.dev.json
+D:\Programme\C#Prog\CryptoService\bin\Release\net5.0\CryptoService.dll
+D:\Programme\C#Prog\CryptoService\bin\Release\net5.0\ref\CryptoService.dll
+D:\Programme\C#Prog\CryptoService\bin\Release\net5.0\CryptoService.pdb
+D:\Programme\C#Prog\CryptoService\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\Programme\C#Prog\CryptoService\obj\Release\net5.0\CryptoService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programme\C#Prog\CryptoService\obj\Release\net5.0\CryptoService.AssemblyInfoInputs.cache
+D:\Programme\C#Prog\CryptoService\obj\Release\net5.0\CryptoService.AssemblyInfo.cs
+D:\Programme\C#Prog\CryptoService\obj\Release\net5.0\CryptoService.csproj.CoreCompileInputs.cache
+D:\Programme\C#Prog\CryptoService\obj\Release\net5.0\CryptoService.csproj.CopyComplete
+D:\Programme\C#Prog\CryptoService\obj\Release\net5.0\CryptoService.dll
+D:\Programme\C#Prog\CryptoService\obj\Release\net5.0\ref\CryptoService.dll
+D:\Programme\C#Prog\CryptoService\obj\Release\net5.0\CryptoService.pdb
+D:\Programme\C#Prog\CryptoService\obj\Release\net5.0\CryptoService.genruntimeconfig.cache

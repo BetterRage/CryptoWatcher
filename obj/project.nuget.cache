@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QOi/3p74B062EdR2OBWEFst5N5hLMq5NZcVOkxX2b30fVa1LW8PUtWxv24/fHCylrOv/pAqHvBFKF7Ex4dBLzw==",
+  "success": true,
+  "projectFilePath": "D:\\Programme\\C#Prog\\CryptoService\\CryptoService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benni\\.nuget\\packages\\microsoft.toolkit.uwp.notifications\\7.1.2\\microsoft.toolkit.uwp.notifications.7.1.2.nupkg.sha512",
+    "C:\\Users\\benni\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\benni\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
