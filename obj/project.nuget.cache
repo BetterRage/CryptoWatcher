@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dggeqjzqOR+XOlaBBYDPlk/TH9PkMup7N/bfMTuPNOCB2xR/tEstnC3Ht5aKg3lg0wRqmLwYxABA5mfQAwdCxA==",
+  "dgSpecHash": "+rVjmWp7X9RIHno+XptJtjKqHajj5r39kHBfFN20uLjWjeXdJgFk5mbIw+nJpkZZ28lL0VEZtSDqxpdaX1v3gg==",
   "success": true,
-  "projectFilePath": "C:\\C#\\CryptoWatcher\\CryptoService.csproj",
+  "projectFilePath": "D:\\Programme\\C#Prog\\CryptoWatcher\\CryptoService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\benni\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\benni\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

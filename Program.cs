@@ -12,6 +12,8 @@ namespace CryptoService
 {
     static class Program
     {
+        const string keysPath = @"D:\Programme\C#Prog\CryptoWatcher\Build\keys.txt";
+        const string configPath = @"D:\Programme\C#Prog\CryptoWatcher\Build\config.txt";
         static void Main()
         {
             string[] keys = ReadAPIKeysFromFile();
@@ -33,7 +35,7 @@ namespace CryptoService
 
         private static string[] ReadCryptosFromFile()
         {
-            using FileStream configFile = File.OpenRead("config.txt");
+            using FileStream configFile = File.OpenRead(configPath);
             using StreamReader cryptoReader = new(configFile);
             string[] cryptos = cryptoReader.ReadLine().Split(" ");
             cryptoReader.Close();
@@ -60,7 +62,7 @@ namespace CryptoService
 
         static string[] ReadAPIKeysFromFile()
         {
-            using FileStream keysFile = File.OpenRead("keys.txt");
+            using FileStream keysFile = File.OpenRead(keysPath);
             using StreamReader keysReader = new(keysFile);
             string keysIn = keysReader.ReadToEnd();
             keysFile.Close();
@@ -70,7 +72,7 @@ namespace CryptoService
 
         static int ReadCurrentKeyIndexFromFile()
         {
-            FileStream configFile = File.OpenRead("keys.txt");
+            FileStream configFile = File.OpenRead(keysPath);
             using StreamReader keyIndexReader = new(configFile);
             int keyIndex = Convert.ToInt32(keyIndexReader.ReadLine());
             keyIndexReader.Close();

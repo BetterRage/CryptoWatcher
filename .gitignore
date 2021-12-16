@@ -1,1 +1,5 @@
 obj
+/Build*
+!/Build/*.txt
+/Build/ref
+
